@@ -1,0 +1,15 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.footerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: aqua;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  align-items: center;
+}

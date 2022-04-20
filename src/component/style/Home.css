@@ -1,0 +1,10 @@
+.btn-popup-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-btn {
+  margin-top: 10px;
+}

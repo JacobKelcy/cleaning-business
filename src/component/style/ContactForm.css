@@ -1,0 +1,21 @@
+.contactContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-input {
+  width: 150px;
+  height: 20px;
+}
+
+.contactContainer textarea {
+  width: 150px;
+  height: 150px;
+}
+
+.submit {
+  margin: 5px;
+  padding: 5px;
+  width: 50px;
+}
